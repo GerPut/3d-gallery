@@ -1,0 +1,1 @@
+This mini project is a 3d gallery scroll component that can be added to a website. 
